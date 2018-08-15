@@ -1,2 +1,3 @@
 # hello-world
-Initialize this repository with a README
+
+Hi. Making this for github purposes.
